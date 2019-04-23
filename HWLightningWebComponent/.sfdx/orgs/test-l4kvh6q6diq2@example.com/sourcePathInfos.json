@@ -35,7 +35,7 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555959067631,
+            "modifiedTime": 1555959594797,
             "changeTime": 1555959067631,
             "contentHash": "d781e9a93b461141372bc7865c02f401c2dbcc7b",
             "isMetadataFile": false,
@@ -78,7 +78,7 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555951606651,
+            "modifiedTime": 1555959594716,
             "changeTime": 1555951606651,
             "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
             "isMetadataFile": false,
@@ -94,11 +94,11 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 715,
-            "modifiedTime": 1555959209590,
-            "changeTime": 1555959209590,
+            "size": 737,
+            "modifiedTime": 1555995998513,
+            "changeTime": 1555995998513,
             "isWorkspace": false,
-            "contentHash": "89459f953cd92c1038500bef228f7eee93b8b074"
+            "contentHash": "de5f1ae31005bdb4747d1fba2c38f3dcfae81d02"
         }
     ],
     [
@@ -107,7 +107,7 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
             "isDirectory": false,
             "size": 957,
-            "modifiedTime": 1555958920662,
+            "modifiedTime": 1555959594716,
             "changeTime": 1555958920662,
             "contentHash": "a748f2191e138d9a58b66febd51f360209e821c2",
             "isMetadataFile": false,
@@ -151,7 +151,7 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555957198464,
+            "modifiedTime": 1555959594706,
             "changeTime": 1555957198464,
             "contentHash": "cc0c910fdddb381b8f59557cb7b72d9252eaf09f",
             "isMetadataFile": false,
@@ -161,469 +161,469 @@
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls",
             "isDirectory": false,
-            "size": 195,
-            "modifiedTime": 1555957387391,
-            "changeTime": 1555957387391,
-            "contentHash": "af1d0cd1a39428c9ad8fa700be231f8fdf840f4e",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 201,
+            "modifiedTime": 1555959594703,
+            "changeTime": 1555959594703,
+            "contentHash": "5032c27a3ec702314942bae5d78940e1ca352a9a"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\classes\\ContactController.cls-meta.xml",
             "isDirectory": false,
-            "size": 195,
-            "modifiedTime": 1555957198467,
-            "changeTime": 1555957198467,
-            "contentHash": "0e475c2265ae655e9dc76a677d3d809a7bb97417",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 200,
+            "modifiedTime": 1555959594707,
+            "changeTime": 1555959594707,
+            "contentHash": "61b0395e956bbd3b7ac2873b40f4ae8c1501e584"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
             "isDirectory": false,
-            "size": 3922,
-            "modifiedTime": 1555959067411,
-            "changeTime": 1555959067411,
-            "contentHash": "de30eba9e5f36f11657cdc19ac079bcf3d22ab1e",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 4015,
+            "modifiedTime": 1555959594740,
+            "changeTime": 1555959594740,
+            "contentHash": "ce76cd0fd4ca479ba795a32043db082f198a6409"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
             "isDirectory": false,
-            "size": 202,
-            "modifiedTime": 1555959067419,
-            "changeTime": 1555959067419,
-            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 207,
+            "modifiedTime": 1555959594743,
+            "changeTime": 1555959594743,
+            "contentHash": "3c124b31608f563ada6bd99255726d46083db218"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
             "isDirectory": false,
-            "size": 228,
-            "modifiedTime": 1555959067424,
-            "changeTime": 1555959067424,
-            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 234,
+            "modifiedTime": 1555959594744,
+            "changeTime": 1555959594744,
+            "contentHash": "384a972462fde81e73175117ecdc791f0f447eb8"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
             "isDirectory": false,
-            "size": 202,
-            "modifiedTime": 1555959067428,
-            "changeTime": 1555959067428,
-            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 207,
+            "modifiedTime": 1555959594747,
+            "changeTime": 1555959594747,
+            "contentHash": "555ee7bd88d189b9ef381e5f732e92c7f66516b9"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
             "isDirectory": false,
-            "size": 203,
-            "modifiedTime": 1555959067435,
-            "changeTime": 1555959067435,
-            "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 208,
+            "modifiedTime": 1555959594749,
+            "changeTime": 1555959594749,
+            "contentHash": "17f39d3667425e543c3f25231fd397a70b4c3b9e"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
             "isDirectory": false,
-            "size": 200,
-            "modifiedTime": 1555959067440,
-            "changeTime": 1555959067440,
-            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 205,
+            "modifiedTime": 1555959594750,
+            "changeTime": 1555959594750,
+            "contentHash": "edc7848a5bfa75f14a6e69ef93874fda083d2d6e"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
             "isDirectory": false,
-            "size": 227,
-            "modifiedTime": 1555959067444,
-            "changeTime": 1555959067444,
-            "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 233,
+            "modifiedTime": 1555959594752,
+            "changeTime": 1555959594752,
+            "contentHash": "70b0e8552bc33c67620059d19329d520a97ac4c9"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
             "isDirectory": false,
-            "size": 200,
-            "modifiedTime": 1555959067450,
-            "changeTime": 1555959067450,
-            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 205,
+            "modifiedTime": 1555959594753,
+            "changeTime": 1555959594753,
+            "contentHash": "9329aa8a81fcb301652178deb8e75487ad0c4beb"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
             "isDirectory": false,
-            "size": 199,
-            "modifiedTime": 1555959067462,
-            "changeTime": 1555959067462,
-            "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 204,
+            "modifiedTime": 1555959594754,
+            "changeTime": 1555959594754,
+            "contentHash": "ff7e7e4ced2ce57ee28410bc5d863342fb92fcdd"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
             "isDirectory": false,
-            "size": 192,
-            "modifiedTime": 1555959067469,
-            "changeTime": 1555959067469,
-            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 197,
+            "modifiedTime": 1555959594756,
+            "changeTime": 1555959594756,
+            "contentHash": "ef6483feeca8d8a846bd11841959ed7170e1b20e"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
             "isDirectory": false,
-            "size": 223,
-            "modifiedTime": 1555959067473,
-            "changeTime": 1555959067473,
-            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 229,
+            "modifiedTime": 1555959594757,
+            "changeTime": 1555959594757,
+            "contentHash": "9384f2c13a43a79de2909dc183d92bd6ca481311"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
             "isDirectory": false,
-            "size": 195,
-            "modifiedTime": 1555959067478,
-            "changeTime": 1555959067478,
-            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 200,
+            "modifiedTime": 1555959594758,
+            "changeTime": 1555959594758,
+            "contentHash": "d259680afeb61a4c49142d0f2224bf4d2d865a63"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
             "isDirectory": false,
-            "size": 198,
-            "modifiedTime": 1555959067483,
-            "changeTime": 1555959067483,
-            "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 203,
+            "modifiedTime": 1555959594760,
+            "changeTime": 1555959594760,
+            "contentHash": "7b674436fe553847f95a95be57b3e6303533c62d"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
             "isDirectory": false,
-            "size": 198,
-            "modifiedTime": 1555959067489,
-            "changeTime": 1555959067489,
-            "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 203,
+            "modifiedTime": 1555959594761,
+            "changeTime": 1555959594761,
+            "contentHash": "8e69fc58b200cdbdbff3aead1334d5f8b5c822c2"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
             "isDirectory": false,
-            "size": 192,
-            "modifiedTime": 1555959067494,
-            "changeTime": 1555959067494,
-            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 197,
+            "modifiedTime": 1555959594763,
+            "changeTime": 1555959594763,
+            "contentHash": "a348762e6f28525be0a04e0d0cefbeab5ce254ce"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
             "isDirectory": false,
-            "size": 206,
-            "modifiedTime": 1555959067500,
-            "changeTime": 1555959067500,
-            "contentHash": "9d2f6c78b600962d19202740171268557046a498",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 211,
+            "modifiedTime": 1555959594765,
+            "changeTime": 1555959594765,
+            "contentHash": "4967174bc7f968f24453f9b77a016534700b378f"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
             "isDirectory": false,
-            "size": 229,
-            "modifiedTime": 1555959067504,
-            "changeTime": 1555959067504,
-            "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 235,
+            "modifiedTime": 1555959594767,
+            "changeTime": 1555959594767,
+            "contentHash": "d2112777e8212058f308b2c21858daade2a69848"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
-            "size": 219,
-            "modifiedTime": 1555959067509,
-            "changeTime": 1555959067509,
-            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 225,
+            "modifiedTime": 1555959594773,
+            "changeTime": 1555959594773,
+            "contentHash": "b7d412be3216cb9efc01a1a73b1be18ada7a928e"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
             "isDirectory": false,
-            "size": 224,
-            "modifiedTime": 1555959067514,
-            "changeTime": 1555959067514,
-            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 230,
+            "modifiedTime": 1555959594776,
+            "changeTime": 1555959594776,
+            "contentHash": "dfad41aedec815c5c3dae8f8b8e0c6b5722420b9"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
             "isDirectory": false,
-            "size": 224,
-            "modifiedTime": 1555959067518,
-            "changeTime": 1555959067518,
-            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 230,
+            "modifiedTime": 1555959594779,
+            "changeTime": 1555959594779,
+            "contentHash": "e34e032532c659aa07e7426065371878014e059c"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
             "isDirectory": false,
-            "size": 194,
-            "modifiedTime": 1555959067523,
-            "changeTime": 1555959067523,
-            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 199,
+            "modifiedTime": 1555959594781,
+            "changeTime": 1555959594781,
+            "contentHash": "b19da99a12a24159f0bb108f6ba8c50b1ee89310"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
             "isDirectory": false,
-            "size": 221,
-            "modifiedTime": 1555959067527,
-            "changeTime": 1555959067527,
-            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 227,
+            "modifiedTime": 1555959594783,
+            "changeTime": 1555959594783,
+            "contentHash": "2a8a36584fa7d932be50778cf559524c9863e381"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
             "isDirectory": false,
-            "size": 204,
-            "modifiedTime": 1555959067533,
-            "changeTime": 1555959067533,
-            "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 209,
+            "modifiedTime": 1555959594784,
+            "changeTime": 1555959594784,
+            "contentHash": "ebd283f5e30908caead295aa176669c149556ebe"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
             "isDirectory": false,
-            "size": 192,
-            "modifiedTime": 1555959067538,
-            "changeTime": 1555959067538,
-            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 197,
+            "modifiedTime": 1555959594786,
+            "changeTime": 1555959594786,
+            "contentHash": "e4b36658d95bae01e002509243463bdd5ae80aa4"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
             "isDirectory": false,
-            "size": 196,
-            "modifiedTime": 1555959067542,
-            "changeTime": 1555959067542,
-            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 201,
+            "modifiedTime": 1555959594788,
+            "changeTime": 1555959594788,
+            "contentHash": "0e581720754872ad2e92c90974c4788885d6ff97"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
             "isDirectory": false,
-            "size": 193,
-            "modifiedTime": 1555959067547,
-            "changeTime": 1555959067547,
-            "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 198,
+            "modifiedTime": 1555959594789,
+            "changeTime": 1555959594789,
+            "contentHash": "7771715ac34684248bb8bad4005b8b08dadd1d34"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
             "isDirectory": false,
-            "size": 201,
-            "modifiedTime": 1555959067553,
-            "changeTime": 1555959067553,
-            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 206,
+            "modifiedTime": 1555959594791,
+            "changeTime": 1555959594791,
+            "contentHash": "ba538aa4c66d16bbacefa53625bf602af4e668e5"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
             "isDirectory": false,
-            "size": 199,
-            "modifiedTime": 1555959067557,
-            "changeTime": 1555959067557,
-            "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 204,
+            "modifiedTime": 1555959594792,
+            "changeTime": 1555959594792,
+            "contentHash": "452910fd0cb411b693b016a50ba9b45a033a1432"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
             "isDirectory": false,
-            "size": 219,
-            "modifiedTime": 1555959067562,
-            "changeTime": 1555959067562,
-            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 225,
+            "modifiedTime": 1555959594794,
+            "changeTime": 1555959594794,
+            "contentHash": "e593e0cf897ea2062937ca32f4e05d3b0a9ab456"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
             "isDirectory": false,
-            "size": 196,
-            "modifiedTime": 1555959067569,
-            "changeTime": 1555959067569,
-            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 201,
+            "modifiedTime": 1555959594795,
+            "changeTime": 1555959594795,
+            "contentHash": "f1e64cc04ff71ec18a27ca56b85d13c54725a904"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
             "isDirectory": false,
-            "size": 200,
-            "modifiedTime": 1555959067573,
-            "changeTime": 1555959067573,
-            "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 205,
+            "modifiedTime": 1555959594796,
+            "changeTime": 1555959594796,
+            "contentHash": "17f1096442afb38477aaf2c160a11b9c64148b13"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 6746,
-            "modifiedTime": 1555959067611,
-            "changeTime": 1555959067611,
-            "contentHash": "03d7c3750ad75b2774fdbf51ba0c17f496137f13",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 6926,
+            "modifiedTime": 1555959594709,
+            "changeTime": 1555959594709,
+            "contentHash": "abffe47431725797b4274b5028b8bae8813f0760"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 6746,
-            "modifiedTime": 1555959067620,
-            "changeTime": 1555959067620,
-            "contentHash": "03d7c3750ad75b2774fdbf51ba0c17f496137f13",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 6926,
+            "modifiedTime": 1555959594711,
+            "changeTime": 1555959594711,
+            "contentHash": "abffe47431725797b4274b5028b8bae8813f0760"
         }
     ],
     [
         "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 23552,
-            "modifiedTime": 1555959067645,
-            "changeTime": 1555959067645,
-            "contentHash": "7a58cebf436342b0058ff4bbd4de6a5b3f04420c",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 24342,
+            "modifiedTime": 1555959594798,
+            "changeTime": 1555959594798,
+            "contentHash": "52d7d4416c08090803713af33a3a6b20113cd8a8"
         }
     ],
     [
@@ -632,7 +632,7 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555959067411,
+            "modifiedTime": 1555959594741,
             "changeTime": 1555959067411,
             "contentHash": "82a5078765c2f1122397f2a823a7250f80f7bbdb",
             "isMetadataFile": false,
@@ -645,7 +645,7 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555959067404,
+            "modifiedTime": 1555959594740,
             "changeTime": 1555959067404,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
             "isMetadataFile": false,
@@ -658,7 +658,7 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555959067569,
+            "modifiedTime": 1555959594796,
             "changeTime": 1555959067569,
             "contentHash": "fc084546f56879d9a97e6e4367f2abae2a1035f3",
             "isMetadataFile": false,
@@ -671,7 +671,7 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555959067618,
+            "modifiedTime": 1555959594710,
             "changeTime": 1555959067618,
             "contentHash": "93892784947c4c318ee6dabdf6c863b9a0b93480",
             "isMetadataFile": false,
@@ -684,7 +684,7 @@
             "sourcePath": "c:\\Users\\mhlangano.khumalo\\Desktop\\LWC\\HelloWorldLWC\\HWLightningWebComponent\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555959067640,
+            "modifiedTime": 1555959594798,
             "changeTime": 1555959067640,
             "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
             "isMetadataFile": false,
